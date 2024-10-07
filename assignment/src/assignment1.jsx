@@ -1,4 +1,4 @@
-import { Component } from "react";
+import { Component } from 'react';
 // Task 1: Code Correction
 // Incorrect Code
 class UserProfile extends Component {
